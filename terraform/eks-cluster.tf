@@ -34,5 +34,6 @@ module "eks" {
       max_size     = 2
       desired_size = 1
     }
+    
   }
 }
